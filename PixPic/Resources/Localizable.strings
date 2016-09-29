@@ -36,7 +36,7 @@
 "already_complaint" = "You have already submitted a complaint about this post";
 "complaint_without_registration" = "Only registered users can submit a complaint";
 
-"internet_required_to_change_profile" = "Internet connection is required to save changes in profile";
+"internet_required_to_change_profile" = "Internet connection is required to save changes in profile :(";
 "will_logout" = "Are you sure you want to log out? You won't be able to share your photos once you're logged out.";
 "changes_will_be_discarded" = "If you go back now, all changes you made will be discarded";
 "internet_required_to_logout" = "Internet connection is required to log out";
