@@ -26,7 +26,7 @@
 "notification" = "Notification";
 
 "thanks_complaint" = "Thank you for submitting your complaint";
-"nil_user_in_post" = "Nil user in post";
+"nil_user_in_post" = "Nil user in post :(";
 
 "user_avatar" = "User Avatar";
 "post_image" = "Post Image";
