@@ -30,7 +30,7 @@
 
 "user_avatar" = "User Avatar";
 "post_image" = "Post Image";
-"username" = "Username";
+"username" = "Username.";
 
 "complaint_yourself" = "You can't submit a complaint about the content you posted";
 "already_complaint" = "You have already submitted a complaint about this post";
